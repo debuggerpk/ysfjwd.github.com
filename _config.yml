@@ -69,15 +69,12 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-<<<<<<< HEAD
 twitter_user: ysfjwd
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
-=======
 twitter_user:
->>>>>>> b8a981db5f56377f93f34d099a093280b9ef974a
 twitter_tweet_button: true
 
 # Google +1
