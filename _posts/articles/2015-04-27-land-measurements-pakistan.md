@@ -4,7 +4,7 @@ title: "Understanding land measurements in Pakistan!"
 date: 2015-04-27 21:18
 #comments: true
 excerpt:
-tags: [agriculture, real-estate, housing]
+tags: [agriculture, housing]
 categories: articles
 ---
 ## Background
