@@ -13,6 +13,18 @@ What pisses me off about the real estate market in Pakistan is lack of standardi
 ## Whats with the ambiguity then? 
 In doing my research, I was in for a surprize. Apparently, this great ambiguity can be found accross the broder, i.e. India and is left by the gora himself!!. 
 
-The reasons behind this appears to be the distribution crown wasteland for irrigation purposes and then later consiladation efforts of these distribution for taxation and legal purposes. During the initial stages of British rule over India, there were a couple of efforts made by them to understand the local agricultural practices and taxation policies. Early efforts such as [East India Irrigation and Canal Act of 1869](http://en.wikipedia.org/wiki/East_India_Irrigation_and_Canal_Act_1869) and [The great trignometric survey](http://en.wikipedia.org/wiki/Great_Trigonometrical_Survey) points to imperial attemt to strenthen their rule over India.
+The reasons behind this appears to be the distribution crown wasteland for irrigation purposes and then later consiladation efforts of these distribution for taxation and legal purposes. During the initial stages of British rule over India, there were a couple of efforts made by them to understand the local agricultural practices and taxation policies. Early efforts such as [East India Irrigation and Canal Act of 1869](http://en.wikipedia.org/wiki/East_India_Irrigation_and_Canal_Act_1869) and [The great trignometric survey](http://en.wikipedia.org/wiki/Great_Trigonometrical_Survey) points to imperial attempt to strenthen their rule over India.
 
-*The great trignometric survey* coupled with *East India Irrigation and Canal Act of 1869* standardized land measurements (aabyana) for taxation purposes. Things changed after attempts were made to increase the cultivatable area, by extending the already faboulous canals network and more barrages. After more water was available for irrgation purposes, land settling rights were sold amongst people. *The great trignometric survey* quantified the sellable area for government 
+*The great trignometric survey* coupled with *East India Irrigation and Canal Act of 1869* standardized land measurements (aabyana) for taxation purposes. Things changed after attempts were made to increase the cultivatable area, by extending the already faboulous canals network and more barrages. After more water was available for irrgation purposes, land settling rights were sold amongst people. *The great trignometric survey* quantified the sellable area for government and the rights sold were according to the survey. To support the population, government constructed support structures (roads, hospitals, schools etc.). Now the initial land sold to farmers were X canals, as per the trignometric survey. but there were excess stuff settlements which included government built settlements. In order to accomodate for that, government of india at that time reduced the value of Karam (the primary unit for land measurement) thus reducing the size of marla and kanal. However, the acre remains the same i.e. 43560 sqft. Crazy, right? I know!
+
+## So whats the verdict then?
+
+Unit Name | Universal Standard | Adjusted Standard
+---|---|---|
+Karam | 5 feet 6 inches | 5 feet
+Marla | 3 Karam x 3 Karam = 16.5 ft x 16.5 ft = 272.25 sqft | 3 Karam x 3 Karam = 15 ft x 15 ft = 225 sqft
+Kanal | 20 marla = 272.25 sqft x 20 = 5445 sqft | 20 marla = 225 sqft x 20 = 4500 sqft
+1 bhiga | 80 marla or 4 kanal or 21780 sqft | not applicable
+1 acre | 160 marla or 8 kanal or 43560 sqft | not applicable
+
+There are certain unique cases, where bhiga equals to 5 kanal but acre equates to 8 kanal. Crazy Crazy Units.
