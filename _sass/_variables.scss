@@ -1,12 +1,13 @@
 // Webfonts
-@import url(http://fonts.googleapis.com/css?family=Merriweather:400italic,400,700,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
 // TYPOGRAPHY ================================================
-$base-font: 'Merriweather', serif;
+$base-font: 'Libre Baskerville', serif;
 $heading-font: $base-font;
 $caption-font: $base-font;
-$code-font: 'source-code-pro', monospace;
-$alt-font: 'Merriweather', serif;
+$code-font: 'Source Code Pro', monospace;
+$alt-font: 'Libre Baskerville', serif;
 
 $doc-font-size: 16;
 $doc-line-height: 24;
