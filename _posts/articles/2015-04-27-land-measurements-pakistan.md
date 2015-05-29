@@ -6,6 +6,7 @@ date: 2015-04-27 21:18
 excerpt:
 tags: [agriculture, housing]
 categories: articles
+comments: true
 ---
 ## Background
 What pisses me off about the real estate market in Pakistan is lack of standardization when it comes to land measurement. The standard unit appears to be square foot, but when it comes to larger units, especially the marla and kanal, they mean different things in different postal codes, e.g. *1 marla* in Lahore is *225 sqft* while *1 marla* in a place like Sahiwal is *272.25* sqft. Why is that? If you have a science background, you would know about System Internationale and the standardization effort by *the gora*. If the *gora* can standardize measurements all accross europe, surely he must have done this India too. My frustration when I came accross these units was always phrased as this, '*pakistanion ke haath aik units lag gaye, un ka bhi pakar ke satiyanass ker diya*'. 
