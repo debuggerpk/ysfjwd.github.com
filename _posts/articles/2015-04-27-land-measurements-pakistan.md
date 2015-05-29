@@ -27,5 +27,6 @@ Unit Name | Universal Standard | Adjusted Standard
 1 Kanal | 20 marla = 272.25 sqft x 20 = 5445 sqft | 20 marla = 225 sqft x 20 = 4500 sqft
 1 bhiga | 80 marla or 4 kanal or 21780 sqft | not applicable
 1 acre | 160 marla or 8 kanal or 43560 sqft | not applicable
+{: .table-minimal }
 
 There are certain unique cases, where bhiga equals to 5 kanal but acre equates to 8 kanal. Crazy Crazy Units.
