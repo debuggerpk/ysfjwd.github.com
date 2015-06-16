@@ -6,6 +6,5 @@ _site/
 
 ### Ruby ###
 Gemfile.lock
-.bundles/
 .bundle/
 
